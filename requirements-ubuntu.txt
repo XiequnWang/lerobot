@@ -46,7 +46,7 @@ attrs==25.4.0
     #   jsonschema
     #   referencing
     #   rerun-sdk
-av==15.1.0
+av==8.1.0
     # via lerobot
 bddl==1.0.1
     # via libero
